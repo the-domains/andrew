@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.2153598
-  lightness: 0.2443609
+  saturation: 0.2615467
   brandStrength: 0.4172932
+  lightness: 0.2013963
   brandColors:
     - '#0D0E0C'
     - '#76706C'
     - '#D09A80'
     - '#5C5529'
     - '#FFD8C6'
-  rhythmicContrast: 1
-typography_spectrum: 0.4688507
+  rhythmicContrast: 0
+typography_spectrum: 0.2089151
 layout_spectrum: 0.170247
 name: Andrew
