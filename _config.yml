@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.2089151
 color:
   saturation: 0.2615467
   brandStrength: 0.4172932
@@ -21,6 +22,5 @@ color:
     - '#5C5529'
     - '#FFD8C6'
   rhythmicContrast: 0
-typography_spectrum: 0.2089151
-layout_spectrum: 0.170247
+layout_spectrum: 0.4677766
 name: Andrew
