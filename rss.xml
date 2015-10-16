@@ -4,7 +4,7 @@
         <description><![CDATA[Andrew]]></description>
         <link>https://thegrid.ai/andrew/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 23:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2015 23:04:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andrew/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What?]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Hi?]]></title>
-            <description><![CDATA[<article><h1>Hi?</h1><p>Hi!</p></article>]]></description>
+            <description><![CDATA[<article><h1>Hi?</h1><p>Hi!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b50c4b6-94f9-4aa2-9598-1f5752989bce.png"></article>]]></description>
             <link>https://thegrid.ai/andrew/hi/index.html</link>
             <guid isPermaLink="false">3dffa7be-e27c-447e-809a-cd2770ecedfb</guid>
-            <pubDate>Fri, 16 Oct 2015 16:59:49 GMT</pubDate>
+            <pubDate>Fri, 16 Oct 2015 23:04:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
