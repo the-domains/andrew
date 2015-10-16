@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2089151
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.2615467
-  brandStrength: 0.4172932
-  lightness: 0.2013963
+  saturation: 0.3571429
+  brandStrength: 0.556928
+  lightness: 0.7137487
   brandColors:
-    - '#0D0E0C'
-    - '#76706C'
-    - '#D09A80'
-    - '#5C5529'
-    - '#FFD8C6'
-  rhythmicContrast: 0
-layout_spectrum: 0.4677766
+    - '#0D0D0D'
+    - '#BC8A5B'
+    - '#6E4C38'
+    - '#E0BDA3'
+    - '#999B9A'
+  rhythmicContrast: 0.6621912
+typography_spectrum: 0.2089151
+layout_spectrum: 0.4699248
 name: Andrew
