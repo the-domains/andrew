@@ -1,3 +1,7 @@
+name: Andrew
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.2089151
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3281418
-  brandStrength: 0.7309344
-  lightness: 0.7631579
   brandColors:
     - '#E9E0CF'
     - '#302827'
     - '#99795B'
     - '#5C5C5C'
     - '#CE6E3A'
+  brandStrength: 0.5
+  lightness: 0.7631579
+  saturation: 0.3281418
   rhythmicContrast: 0.4946294
-typography_spectrum: 0.2089151
-layout_spectrum: 1
-name: Andrew
+purpose: []
