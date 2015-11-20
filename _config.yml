@@ -1,5 +1,7 @@
-favicon: null
-name: Andrew
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -28,13 +30,11 @@ color:
     - '#5C5C5C'
     - '#CE6E3A'
   rhythmicContrast: 0.08861437
-typography_spectrum: 0.1380236
+typography_spectrum: 0.3088077
 layout_spectrum: 0.5161117
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Andrew
