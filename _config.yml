@@ -1,40 +1,40 @@
-name: Andrew
 favicon: null
-layout_spectrum: 0.36136
-typography_spectrum: 0.23393
+name: Andrew
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.3839957
+  brandStrength: 0.5
+  lightness: 0.1680988
   brandColors:
     - '#E9E0CF'
     - '#302827'
     - '#99795B'
     - '#5C5C5C'
     - '#CE6E3A'
-  brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.3125
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.6364124
+typography_spectrum: 0.1380236
+layout_spectrum: 0.9704618
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
