@@ -1,40 +1,41 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Andrew
+favicon: null
+layout_spectrum: 0.36136
+typography_spectrum: 0.23393
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-purpose: []
+title: Andrew
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8523093
-  lightness: 0.1734694
-  brandStrength: 0.5
   brandColors:
     - '#E9E0CF'
     - '#302827'
     - '#99795B'
     - '#5C5C5C'
     - '#CE6E3A'
-  rhythmicContrast: 0.08861437
-typography_spectrum: 0.3088077
-layout_spectrum: 0.5161117
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Andrew
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.3125
+  rhythmicContrast: 0.5
+purpose: []
